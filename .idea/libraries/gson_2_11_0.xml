@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="gson-2.11.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/gson-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/kotlin-stdlib-1.9.0-RC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jakarta.servlet-api-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/okio-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/okhttp-4.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-j-8.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
