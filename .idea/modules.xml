@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LaundryWebApp_with_Mpesa_STK_Push.iml" filepath="$PROJECT_DIR$/.idea/LaundryWebApp_with_Mpesa_STK_Push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Egerton-Laundry.iml" filepath="$PROJECT_DIR$/src/Egerton-Laundry.iml" />
     </modules>
   </component>
 </project>
